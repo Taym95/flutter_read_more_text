@@ -8,7 +8,7 @@ Add `flutter_read_more_text` to your `pubspec.yamlfile`.
 
 ### Usage
 
-```
+```dart
 import 'package:flutter/material.dart';
 import 'package:flutter_read_more_text/flutter_read_more_text.dart';
 
