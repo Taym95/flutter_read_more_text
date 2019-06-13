@@ -1,8 +1,8 @@
 name: flutter_read_more_text
-description: A new flutter plugin project.
+description: Read more/Show less animated widget.
 version: 0.0.1
-author:
-homepage:
+author: haddadi.taym@gmail.com
+homepage: https://github.com/Taym95/flutter_read_more_text
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
