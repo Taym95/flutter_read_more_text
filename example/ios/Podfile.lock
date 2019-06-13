@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_read_more_text (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - flutter_read_more_text (from `.symlinks/plugins/flutter_read_more_text/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  flutter_read_more_text:
+    :path: ".symlinks/plugins/flutter_read_more_text/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
+  flutter_read_more_text: e2da7ac4ed12e324ec0085b90ab549a53a907b0f
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.5.3

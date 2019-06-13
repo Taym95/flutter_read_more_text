@@ -1,0 +1,1 @@
+export 'src/read_more_text.dart';
